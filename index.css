@@ -1,0 +1,49 @@
+.layer-3-1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+.test-reckless-rp {
+  position: absolute;
+  height: 23.53%;
+  width: 31.82%;
+  top: 41.18%;
+  left: 22.12%;
+  display: inline-block;
+}
+.rectangle-icon,
+.warning-copy-icon {
+  position: absolute;
+  height: 100%;
+  width: 33.33%;
+  top: 1.47%;
+  right: 4.24%;
+  bottom: -1.47%;
+  left: 62.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangle-icon {
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rounded-rectangle-2 {
+  width: 100%;
+  position: relative;
+  height: 68px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 10px;
+  color: #fff;
+  font-family: var(--font-inter);
+}
